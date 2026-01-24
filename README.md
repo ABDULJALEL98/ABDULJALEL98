@@ -62,8 +62,7 @@ I focus on building **scalable, clean, and high-performance applications** follo
 
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULJALEL98&theme=tokyonight" />
+
 
 </p>
 
