@@ -77,10 +77,10 @@ I focus on building **scalable, clean, and high-performance applications** follo
 
 ## 🌐 Connect with Me
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/abdul-jalel-alismaael-552132287/)" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:abdulgalelalismaael@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
 </a>
 </p>
