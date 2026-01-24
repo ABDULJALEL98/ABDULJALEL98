@@ -49,7 +49,9 @@ I focus on building **scalable, clean, and high-performance applications** follo
 
 ## 📊 Most Used Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULJALEL98&layout=compact&theme=tokyonight" />
+<<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULJALEL98&layout=compact&theme=tokyonight" />
+
+
 </p>
 
 ---
@@ -57,10 +59,12 @@ I focus on building **scalable, clean, and high-performance applications** follo
 ## 📈 GitHub Statistics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ABDULJALEL98&show_icons=true&theme=tokyonight" />
+
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULJALEL98&theme=tokyonight" />
+
 </p>
 
 ---
