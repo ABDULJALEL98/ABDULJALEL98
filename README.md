@@ -75,7 +75,7 @@ I focus on building **scalable, clean, and high-performance applications** follo
 - 🧠 **Clean Architecture Template**
 - 🔐 **Authentication & Authorization System**
 
-> *(Pin these repositories from your GitHub profile)*
+
 
 ---
 
