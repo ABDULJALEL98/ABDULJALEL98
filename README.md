@@ -49,18 +49,18 @@ I focus on building **scalable, clean, and high-performance applications** follo
 
 ## 📊 Most Used Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULJALEL98&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 GitHub Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ABDULJALEL98&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDULJALEL98&theme=tokyonight" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ I focus on building **scalable, clean, and high-performance applications** follo
 
 ## 🌐 Connect with Me
 <p>
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/abdul-jalel-alismaael-552132287/)" target="_blank">
+<a href="https://linkedin.com/in/abdul-jalel-alismaael-552132287/)" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:abdulgalelalismaael@gmail.com">
