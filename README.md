@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abdul Jalel Alismaael</h1>
-<h3 align="center">Senior Software Engineer · Flutter & ASP.NET Core</h3>
+<h3 align="center">Software Engineer · Flutter & ASP.NET Core</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ABDULJALEL98&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -16,14 +16,15 @@
 
 ---
 
-## 👨‍💻 About Me
-Senior Software Engineer with strong experience in **Flutter mobile applications** and **ASP.NET Core backend systems**.  
-I design and build **scalable, maintainable, and high-performance solutions** using clean architecture and modern engineering practices.
+## 👨‍💻 About
+Software Engineer focused on building **scalable, reliable, and maintainable applications** across mobile and backend platforms.
 
-- 📱 Cross-platform mobile apps (Flutter)
-- ⚙️ RESTful & Secure APIs (ASP.NET Core)
-- 🧠 Clean Architecture · SOLID · DDD basics
-- 🚀 Performance · Scalability · Maintainability
+I work with modern technologies and proven architectural patterns to deliver clean and efficient solutions that align with business goals.
+
+- 📱 Cross-platform mobile applications (Flutter)
+- ⚙️ Backend APIs with ASP.NET Core
+- 🧠 Clean Architecture & SOLID principles
+- 🚀 Performance, stability, and long-term maintainability
 
 ---
 
@@ -56,7 +57,7 @@ I design and build **scalable, maintainable, and high-performance solutions** us
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ABDULJALEL98&show_icons=true&theme=tokyonight" />
@@ -68,18 +69,18 @@ I design and build **scalable, maintainable, and high-performance solutions** us
 
 ---
 
-## 📌 Featured Work
-- 📱 **Flutter E-Commerce Platform**
-- ⚙️ **ASP.NET Core REST API**
-- 🧠 **Clean Architecture Starter Template**
-- 🔐 **Authentication & Authorization System**
+## 📌 Selected Projects
+- 📱 Flutter E-Commerce Application
+- ⚙️ ASP.NET Core REST API
+- 🧠 Clean Architecture Template
+- 🔐 Authentication & Authorization System
 
 ---
 
-## 🤝 Let’s Connect
-I’m open to:
-- High-impact backend & mobile projects
-- Startup & product-driven teams
-- Technical leadership & mentorship
+## 🌍 Open To
+- Remote & on-site opportunities
+- International teams
+- Long-term product development
+- Technical collaboration
 
-⭐ *Building software that scales — technically and professionally.*
+⭐ *Focused on building software that is clean, scalable, and built to last.*
