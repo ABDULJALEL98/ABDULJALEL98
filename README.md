@@ -57,18 +57,6 @@ I work with modern technologies and proven architectural patterns to deliver cle
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABDULJALEL98&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULJALEL98&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📌 Selected Projects
 - 📱 Flutter E-Commerce Application
 - ⚙️ ASP.NET Core REST API
