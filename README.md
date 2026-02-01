@@ -1,85 +1,85 @@
-<h1 align="center">Hi 👋, I'm ABDUL JALEL ALISMAAEL</h1>
-<h3 align="center">Software Engineer | Flutter & ASP.NET Core Developer</h3>
+<h1 align="center">👋 Hi, I'm Abdul Jalel Alismaael</h1>
+<h3 align="center">Senior Software Engineer · Flutter & ASP.NET Core</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ABDULJALEL98&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ABDULJALEL98&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdul-jalel-alismaael-552132287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abdulgalelalismaael@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
-Software Engineer specialized in **Flutter mobile development** and **ASP.NET Core backend systems**.  
-I focus on building **scalable, clean, and high-performance applications** following modern software architecture principles.
+## 👨‍💻 About Me
+Senior Software Engineer with strong experience in **Flutter mobile applications** and **ASP.NET Core backend systems**.  
+I design and build **scalable, maintainable, and high-performance solutions** using clean architecture and modern engineering practices.
 
-- 📱 Cross-platform Mobile Apps (Flutter)
-- ⚙️ RESTful APIs using ASP.NET Core
-- 🧠 Clean Architecture & SOLID Principles
-- 🚀 Performance & Maintainability
+- 📱 Cross-platform mobile apps (Flutter)
+- ⚙️ RESTful & Secure APIs (ASP.NET Core)
+- 🧠 Clean Architecture · SOLID · DDD basics
+- 🚀 Performance · Scalability · Maintainability
 
 ---
 
 ## 🛠 Tech Stack
 
-### 📱 Mobile Development
+### Mobile
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
 </p>
 
-### ⚙️ Backend Development
+### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
 </p>
 
-### 🌐 Frontend Development
+### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 </p>
 
-### 🗄 Databases
+### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-### ⚙️ DevOps & Tools
+### DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,aws,linux,jenkins,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,aws,linux,jenkins" />
 </p>
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Overview
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULJALEL98&layout=compact&theme=tokyonight)
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABDULJALEL98&show_icons=true&theme=tokyonight" />
+</p>
 
-## 📈 GitHub Statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULJALEL98&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULJALEL98&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-- 📱 **Flutter E-Commerce App**
+## 📌 Featured Work
+- 📱 **Flutter E-Commerce Platform**
 - ⚙️ **ASP.NET Core REST API**
-- 🧠 **Clean Architecture Template**
+- 🧠 **Clean Architecture Starter Template**
 - 🔐 **Authentication & Authorization System**
 
-
-
 ---
 
-## 🌐 Connect with Me
-<p>
-<a href="https://linkedin.com/in/abdul-jalel-alismaael-552132287/)" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:abdulgalelalismaael@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-</a>
-</p>
+## 🤝 Let’s Connect
+I’m open to:
+- High-impact backend & mobile projects
+- Startup & product-driven teams
+- Technical leadership & mentorship
 
----
-
-⭐ *Always open to learning, collaboration, and new challenges.*
+⭐ *Building software that scales — technically and professionally.*
