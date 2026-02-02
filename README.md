@@ -1,74 +1,82 @@
-<h1 align="center">👋 Hi, I'm Abdul Jalel Alismaael</h1>
-<h3 align="center">Software Engineer · Flutter & ASP.NET Core</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ABDULJALEL98&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/abdul-jalel-alismaael-552132287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abdulgalelalismaael@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<h1 align="center">Abdul Jalel Alismaael</h1>
+<h3 align="center">Software Engineer | Flutter & ASP.NET Core</h3>
 
 ---
 
-## 👨‍💻 About
-Software Engineer focused on building **scalable, reliable, and maintainable applications** across mobile and backend platforms.
-
-I work with modern technologies and proven architectural patterns to deliver clean and efficient solutions that align with business goals.
-
-- 📱 Cross-platform mobile applications (Flutter)
-- ⚙️ Backend APIs with ASP.NET Core
-- 🧠 Clean Architecture & SOLID principles
-- 🚀 Performance, stability, and long-term maintainability
+## Professional Summary
+Software Engineer with hands-on experience in designing, developing, and maintaining mobile and backend applications.
+Experienced in Flutter for cross-platform mobile development and ASP.NET Core for backend services.
+Focused on clean architecture, performance optimization, and maintainable codebases.
 
 ---
 
-## 🛠 Tech Stack
+## Core Skills
+- Flutter & Dart (Mobile Application Development)
+- ASP.NET Core (RESTful APIs)
+- C#, .NET
+- Clean Architecture, SOLID Principles
+- Authentication & Authorization
+- Performance Optimization
+- Git, GitHub
+- Docker, Nginx, Linux
+- SQL & NoSQL Databases
 
-### Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
-</p>
+---
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
-</p>
+## Technical Skills
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-</p>
+### Mobile Development
+- Flutter, Dart
+- Android fundamentals
+
+### Backend Development
+- ASP.NET Core
+- RESTful API Design
+- Entity Framework Core
+- Authentication & Authorization
+
+### Frontend Development
+- HTML, CSS, JavaScript, TypeScript
+- React, Next.js
 
 ### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
 
 ### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,aws,linux,jenkins" />
-</p>
+- Git, GitHub
+- Docker
+- Nginx
+- AWS (basic)
+- Linux
+- CI/CD fundamentals
 
 ---
 
-## 📌 Selected Projects
-- 📱 Flutter E-Commerce Application
-- ⚙️ ASP.NET Core REST API
-- 🧠 Clean Architecture Template
-- 🔐 Authentication & Authorization System
+## Selected Projects
+- **Flutter E-Commerce Application**  
+  Cross-platform mobile application with product catalog, cart, and checkout features.
+
+- **ASP.NET Core REST API**  
+  Backend system with authentication, role-based authorization, and scalable architecture.
+
+- **Clean Architecture Template**  
+  Reusable project structure following clean architecture principles.
+
+- **Authentication & Authorization System**  
+  Secure user management using JWT and role-based access control.
 
 ---
 
-## 🌍 Open To
-- Remote & on-site opportunities
-- International teams
-- Long-term product development
-- Technical collaboration
+## Work Preferences
+- Open to remote and on-site opportunities
+- Comfortable working with international teams
+- Interested in long-term product development
 
-⭐ *Focused on building software that is clean, scalable, and built to last.*
+---
+
+## Contact
+- Email: abdulgalelalismaael@gmail.com  
+- LinkedIn: https://linkedin.com/in/abdul-jalel-alismaael-552132287
