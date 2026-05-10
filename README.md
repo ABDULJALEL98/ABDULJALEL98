@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abdul Jalel Alismaael</h1>
-<h3 align="center">Software Engineer · Flutter & ASP.NET Core</h3>
+<h3 align="center">Software Engineer · Flutter · ASP.NET Core · Python</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ABDULJALEL98&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -21,8 +21,9 @@ Software Engineer focused on building **scalable, reliable, and maintainable app
 
 I work with modern technologies and proven architectural patterns to deliver clean and efficient solutions that align with business goals.
 
-- 📱 Cross-platform mobile applications (Flutter)
+- 📱 Cross-platform mobile applications with Flutter
 - ⚙️ Backend APIs with ASP.NET Core
+- 🐍 Python programming and scripting
 - 🧠 Clean Architecture & SOLID principles
 - 🚀 Performance, stability, and long-term maintainability
 
@@ -37,7 +38,7 @@ I work with modern technologies and proven architectural patterns to deliver cle
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,python" />
 </p>
 
 ### Frontend
@@ -57,13 +58,10 @@ I work with modern technologies and proven architectural patterns to deliver cle
 
 ---
 
-
-
----
-
 ## 📌 Selected Projects
 - 📱 Flutter E-Commerce Application
 - ⚙️ ASP.NET Core REST API
+- 🐍 Python Automation Scripts
 - 🧠 Clean Architecture Template
 - 🔐 Authentication & Authorization System
 
